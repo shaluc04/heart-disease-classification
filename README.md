@@ -1,4 +1,4 @@
-﻿## Predicting Heart disease using Machine Learning
+﻿## [Predicting Heart disease using Machine Learning](Notebook/end-to-end-heart-disease-classification.ipynb)
  
 This notebook looks into using various Python based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
 
@@ -23,11 +23,13 @@ In a statement,
 
 ### Data
 
-The original data came from Cleavland database from the UCI Machine Learning repository:https://archive.ics.uci.edu/ml/datasets/heart+Disease
+The original data came from Cleavland database from the UCI Machine Learning repository: [Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 
-There is also a version of it available on Kaggle: https://www.kaggle.com/ronitf/heart-disease-uci
+There is also a version of it available on Kaggle: [Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)
 
 The original database contains **76 attributes**, but here only **14 attributes** will be used. Attributes (also called **features**) are the variables what we'll use to predict our target variable.
+
+
 
 
 
