@@ -29,6 +29,19 @@ There is also a version of it available on Kaggle: [Heart Disease UCI](https://w
 
 The original database contains **76 attributes**, but here only **14 attributes** will be used. Attributes (also called **features**) are the variables what we'll use to predict our target variable.
 
+### Tools used
+- Pandas for data analysis.
+- NumPy for numerical operations.
+- Matplotlib/seaborn for plotting or data visualization.
+- Scikit-Learn for machine learning modelling and evaluation.
+
+Logistic Regression, KNN and Random forest models are built and compared on the basis of their classification accuracy. Here, logistic regression performs the best.
+
+Carrying on with my experiments, I tried hyperparamter tuning Logistic Regression model and Random Forest model using `RandomizedSearchCV` to improve their performance. Random Forest Classifier score has improved a little with hyperparameter tuning (but still not as good as Logistic regression!).
+
+Further I try improving Logistic Regression classifier again using `GridSearchCV`. Next, I evaluated the tuned machine learning learning classifier using different metrics such as: ROC curve and AUC score, Confusion matrix, Classification report, Precision, Recall, f1-score.
+
+
 
 
 
