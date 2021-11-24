@@ -7,7 +7,7 @@ Supervised learning is a process of providing input data as well as correct outp
 
 **Classification** is one such type of Supervised Learning technique that is used to identify the **category of new observations** on the basis of training data. In Classification, a program learns from the given dataset or observations and then classifies new observation into a **number of classes or groups**.
 
-I have going to follow the life-cycle of a machine learning problem and take the following approach to tackle the problem:
+I am going to follow the life-cycle of a machine learning problem and take the following approach to tackle the problem:
 - **Problem Definition** - What problem am I trying to solve?
 - **Data** - What data do I have?
 - **Evaluation** - What defines success?
